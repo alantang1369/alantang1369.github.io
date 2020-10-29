@@ -1,11 +1,11 @@
 # Site settings
 author: Alan Tang
-title: CLI Project
+title: ALAN TANG
 header-img: img/home-bg.png
 email: giabao_tang@yahoo.com
 copyright_name: Alan Tang
 description: > # this means to ignore newlines until "baseurl:"
-  Top 100 Edm Festivals 
+  A Soon-to-be Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  alantang1369
